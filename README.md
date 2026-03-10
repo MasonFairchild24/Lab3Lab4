@@ -7,4 +7,5 @@ So, I just followed the instructions given outload during the lab we were told a
 Therefore, im just going to give an example of an issue I had.
 
 Runtime is taking forever gathering the data due to the mass amount of monsters in the API (roughly 300).
+Fix: Instead of using all 300 monsters, I created a sample with 40 monsters randomly selected via the Sample_monsters function in api_stuff.py
 
